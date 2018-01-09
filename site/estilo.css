@@ -1,0 +1,91 @@
+
+
+#tudo{
+    width: 1000px;
+    margin: 30px auto;
+}
+
+#header{
+    text-align: center;
+    margin-top: 20px;
+    height: 100px;
+}
+
+#bgFundo{
+    background: #EAECED; /* For browsers that do not support gradients */
+    background: -webkit-radial-gradient(#FEFEFE, #EAECED); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(#FEFEFE, #EAECED); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(#FEFEFE, #EAECED); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(#FEFEFE, #EAECED); /* Standard syntax */
+}
+
+#titulo{
+    padding-top: 30px;
+    font-family: 'Century Gothic';
+    color: #545454;
+    font-size: 24.5px;
+}
+
+#conteudo{
+
+}
+
+
+#input{
+    width: 90%;
+    max-width: 90%;
+    min-height: 90px;
+    margin: 0px 5%;
+    overflow-x: hidden; 
+    font-size: 12px;
+    color: #545454;
+}
+
+#label{
+    margin: 0px 5%;
+    font-size: 18px;
+    font-family: 'Century Gothic';
+    color: #545454;
+}
+
+#menu{
+    margin: 20px 5%;
+}
+
+#mapa{
+    width: 100%;
+    height: 100%;
+    margin: 20px 5%;
+}
+
+#pagads {
+    width: 90%;
+    border: 1px solid #545454;
+    border-collapse: collapse;
+}
+
+#pagads-tr{
+    border: 1px solid #545454;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+#pagads-td{
+    border: 1px solid #545454;
+    border-collapse: collapse;
+    height:70px; 
+    text-align: center;
+}
+
+img {
+    width: 50px;
+}
+
+#passos{
+    font-size: 14px;
+    font-family: 'Century Gothic';
+    color: #545454;
+    margin-top: 9px;
+
+}
